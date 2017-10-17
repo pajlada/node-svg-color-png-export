@@ -1,0 +1,11 @@
+{
+  "name": "svg-color-png-export",
+  "version": "0.8.0",
+  "license": "MIT",
+  "main": "index.js",
+  "description": "Export directory of single-color svg files as multiple png files with different colors",
+  "dependencies": {
+    "fs-p": "^2.0.0",
+    "waitgroup": "^1.1.0"
+  }
+}
